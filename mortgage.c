@@ -145,7 +145,8 @@ int main(int argc, char* argv[])
 
     // ------------------ OUTPUT THE AMORTIZATION TABLE ------------------------
 
-    // Print the first 5 months and the last 5 months of the amortization table
+    // ASCII Art thanks to:
+    //  https://patorjk.com/software/taag/#p=display&f=Slant&t=Mortgage%20Table
     printf("\n----------------------------------------"
            "----------------------------------------\n");
     printf("|      __  ___           __                            ______      __    __    |\n");
@@ -156,6 +157,8 @@ int main(int argc, char* argv[])
     printf("|                        /____/      /____/                                    |\n");
     printf("----------------------------------------"
            "----------------------------------------\n\n");
+
+    // Print the first 5 months and the last 5 months of the amortization table
     printf("  #     Payment   Interest  Principal       Balance\n");
     printf("---  ----------  ---------  ---------  ------------\n");
     for(int i = 0; i < 5; i++)
