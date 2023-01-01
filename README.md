@@ -29,7 +29,7 @@ Which would generate an amortization table for a $200k loan at 4.25% APR over 30
 
 ## Maintainers
 
-[@JoshuaTallman](https://github.com/prof-tallman).
+[@JoshuaTallman](https://github.com/prof-tallman)
 
 ## Contributing
 This program is written as an example for students.
