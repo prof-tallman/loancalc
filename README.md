@@ -1,5 +1,6 @@
 # Mortgage Calculator
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 Calculates and displays an amortization table for a home loan. The '-c' at the end of mortgage-c is to quickly identify this program as written in the C language.
 
 ## Table of Contents
